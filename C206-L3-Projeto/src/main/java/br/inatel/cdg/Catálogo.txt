@@ -1,0 +1,10 @@
+Genero:
+0 - Código
+1 - Ação
+2 - Luta asdlkm,asçld
+3 - Corrida aksdmaskdasd
+4 - Plataforma askdaslkdmas
+Interface:
+
+Catálogo:
+
